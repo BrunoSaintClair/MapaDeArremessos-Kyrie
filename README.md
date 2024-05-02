@@ -8,7 +8,7 @@ No programa acima foi gerado a visualização de todos os arremessos tentados pe
 Praticar a geração desse tipo de visualização pois pretendo utilizar essa base para projetos futuros.
 
 
-### Foi utilizado:
+## Foi utilizado:
 
 * Biblioteca `pandas` para lidar com o conjunto de dados.
 
@@ -22,8 +22,10 @@ Praticar a geração desse tipo de visualização pois pretendo utilizar essa ba
 ![Mapa de Arremessos oficial da NBA](/imagens/ShotChartNBA-Kyrie.png)
 
 
+
 ### Minha versão:
 ![Meu mapa de Arremessos](/imagens/Kyrie_arremessos.png)
+
 
 
 ### Extra:
