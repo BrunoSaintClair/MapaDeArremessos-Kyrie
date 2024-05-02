@@ -19,13 +19,13 @@ Praticar a geração desse tipo de visualização pois pretendo utilizar essa ba
 # Resultado:
 
 ### Mapa de Arremessos oficial da NBA:
-![Mapa de Arremessos oficial da NBA](\imagens\ShotChartNBA-Kyrie.png)
+![Mapa de Arremessos oficial da NBA](/imagens/ShotChartNBA-Kyrie.png)
 
 
 ### Minha versão:
-![Meu mapa de Arremessos](\imagens\Kyrie_arremessos.png)
+![Meu mapa de Arremessos](/imagens/Kyrie_arremessos.png)
 
 
 ### Extra:
 #### Mapa de arremessos tentados nos 2 minutos finais dos jogos:
-![Arremessos no clutch time](\imagens\Kyrie_arremessos_clutch.png)
+![Arremessos no clutch time](/imagens/Kyrie_arremessos_clutch.png)
